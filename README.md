@@ -59,4 +59,4 @@ this repo changes as i go deeper into new techniques, architectures, and researc
 
 ## final note  
 
-this is mostly for me. if you find something useful, take it. if you have questions, ask. if it breaks, fix it.
+this is mostly for me. if you find something useful, great! if you have questions, ask. if it breaks, fix it.
